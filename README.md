@@ -20,8 +20,9 @@ This flutter dashboard library is versatile; it's tailored to work seamlessly on
 
 ### Responsive Admin Panel or Dashboard Final UI Preview
 
-![Preview](/gif.gif)
 
-![App UI](/ui.png)
+![Ajouter un produit](assets/images/image1.png)
 
-![Logo du projet](assets/images/logo.png)
+![Ajouter un produit](assets/images/image2.png)
+
+![Ajouter un produit](assets/images/image3.png)
