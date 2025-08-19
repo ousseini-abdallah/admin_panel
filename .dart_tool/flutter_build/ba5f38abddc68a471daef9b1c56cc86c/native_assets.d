@@ -1,0 +1,1 @@
+ C:\\Users\\Administrateur\\Desktop\\Projet_flutter\\ecom_startup_code\\client_side\\admin_panal_startup\\.dart_tool\\flutter_build\\ba5f38abddc68a471daef9b1c56cc86c\\native_assets.yaml: 
